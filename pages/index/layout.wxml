@@ -4,9 +4,11 @@
  1
  </button>
 
-<view class="item1">
- 2
- </view>
+ <button >
+ <image src="/img/button.png">
+ </image>
+ </button>
+
 
  <view class="item1">
  3
