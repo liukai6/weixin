@@ -1,7 +1,10 @@
 <view class='base'>
-<button class='btn'>
+<view bindtap='aaa'>
+<button class='btn'  >
 宣化麻将
 </button>
+</view>
+
 <button class='btn'>
 内蒙古
 </button>

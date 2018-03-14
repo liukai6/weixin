@@ -3,6 +3,7 @@
 const app = getApp()
 
 Page({
+
   data: {
     motto: 'Hello World',
     userInfo: {},
@@ -11,6 +12,12 @@ Page({
   },
   //事件处理函数
   bindViewTap: function() {
+    wx.navigateTo({
+      url: '../logs/logs'
+    })
+  },
+  aaa: function() {
+    console.log('天河钻');
     wx.navigateTo({
       url: '../logs/logs'
     })
@@ -43,6 +50,7 @@ Page({
       })
     }
   },
+
   getUserInfo: function(e) {
     console.log(e)
     app.globalData.userInfo = e.detail.userInfo
