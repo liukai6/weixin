@@ -8,5 +8,6 @@
 .btn {
   font-size: 35rpx;
   width: 200rpx;
-  height: 90rpx;
+  height: 80rpx;
+  margin-bottom: 10rpx;
 }
