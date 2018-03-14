@@ -1,0 +1,17 @@
+/* pages/index/layout.wxss */
+.container1{
+  display: flex;
+  flex-flow: wrap row;
+  justify-content:space-around;
+  height: 100%;
+  width: 100%;
+  background-color: beige;
+}
+
+.item1{
+  height: 100rpx;
+  width: 100rpx;
+  background-color: orange;
+  border: 1px solid #fff;
+  flex-grow: 1;
+}
