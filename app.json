@@ -9,7 +9,7 @@
     "borderStyle": "pick",
     "list": [
       {
-        "selectedIconPath": "images/11.png",
+        "selectedIconPath": "images/111.png",
         "iconPath": "images/11.png",
         "pagePath": "pages/index/index",
         "text": "麻将"
