@@ -8,7 +8,7 @@
     "color": "#000",
     "selectedColor": "red",
     "borderStyle": "pick",
-    "position": "top",
+    
     "list": [
       {
         "selectedIconPath": "images/111.png",
