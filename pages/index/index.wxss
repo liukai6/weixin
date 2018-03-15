@@ -1,11 +1,21 @@
 /**index.wxss**/
 .base {
+    height: 100%;
+    width:100%;
   display: flex;
-  flex-direction: row-reverse;
-  flex-wrap:wrap;
-  align-items: center;
+
+ flex-wrap:wrap;
+ justify-content:space-around;
+
 }
+
 .btn {
+  font-size: 35rpx;
+  width: 200rpx;
+  height: 80rpx;
+  margin-bottom: 10rpx;
+}
+.btn1 {
   font-size: 35rpx;
   width: 200rpx;
   height: 80rpx;

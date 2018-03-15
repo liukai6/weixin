@@ -1,42 +1,32 @@
 <view class='base'>
-<view bindtap='aaa'>
+<view>
+<button class='btn' bindtap='aaa'  >
+宣化麻将
+</button>
+</view>
+<view>
+<button class='btn' bindtap='aaa'  >
+宣化麻将
+</button>
+</view>
+<view>
 <button class='btn' bindtap='aaa'  >
 宣化麻将
 </button>
 </view>
 
-<button class='btn'bindtap='aaa'>
-内蒙古
-</button>
-<button class='btn'>
-宣化麻将
-</button>
-<button class='btn'>
-宣化麻将
-</button>
-<button class='btn'>
-宣化麻将
-</button>
-<button class='btn'>
-宣化麻将
-</button>
-<button class='btn'>
-宣化麻将
-</button>
-<button class='btn'>
-宣化麻将
-</button>
-<button class='btn'>
-宣化麻将
-</button>
-<button class='btn'>
-宣化麻将
-</button>
-<button class='btn'>
-宣化麻将
-</button>
-<button class='btn'>
-宣化麻将
-</button>
+
+
 
 </view>
+<view>
+<button class='btn1' bindtap='aaa'  >
+宣化麻将
+</button>
+</view>
+<view>
+<button class='btn1' bindtap='aaa'  >
+宣化麻将
+</button>
+</view>
+
