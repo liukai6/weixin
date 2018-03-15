@@ -2,7 +2,6 @@
 .base {
     height: 100%;
     width:100%;
-  display: flex;
 
  flex-wrap:wrap;
  justify-content:space-around;
@@ -10,14 +9,21 @@
 }
 
 .btn {
+  float: left;
   font-size: 35rpx;
   width: 200rpx;
   height: 80rpx;
   margin-bottom: 10rpx;
+  margin-left: 24rpx; 
+  margin-right: 24rpx;
+
 }
 .btn1 {
+  float:left;
   font-size: 35rpx;
   width: 200rpx;
   height: 80rpx;
   margin-bottom: 10rpx;
+  margin-left: 24rpx; 
+  margin-right: 24rpx;
 }
